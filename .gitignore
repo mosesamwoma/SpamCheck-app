@@ -1,6 +1,5 @@
 # Ignore Maven build results
 target/
-*.jar
 *.exe
 
 # Ignore IDE build folders (The one you found)
