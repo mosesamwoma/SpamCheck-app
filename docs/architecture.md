@@ -108,7 +108,3 @@ API Contract: docs/api-contract.md
 README: Project overview and usage
 
 ---
-
-If you want, I can also provide a **terminal command** that will **automatically create `docs/architecture.md`** with this content in your project so you don’t have to copy-paste.  
-
-Do you want me to do that?
