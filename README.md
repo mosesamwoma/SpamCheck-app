@@ -41,6 +41,22 @@
 
 ---
 
+## 📸 Screenshots
+
+### Application Interface
+![SpamCheck Main Interface](screenshort/1.png)
+*Clean and intuitive main interface - paste your message and click "Check Spam"*
+
+### Spam Detection Result
+![Spam Detected](screenshort/2.png)
+*Real-time spam detection with clear visual feedback*
+
+### Not Spam Result
+![Not Spam Result](screenshort/3.png)
+*Legitimate messages are clearly marked as "Not Spam"*
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend (Desktop App)
@@ -80,26 +96,20 @@
 #### Steps
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/mosesamwoma/SpamCheck-app.git
-   cd SpamCheck-app
-   ```
+```bash
+git clone https://github.com/mosesamwoma/SpamCheck-app.git
+cd SpamCheck-app
+```
 
 2. **Build the project:**
-   ```bash
-   mvn clean package
-   ```
+```bash
+mvn clean package
+```
 
 3. **Build Windows installer (optional):**
-   ```bash
-   mvn clean package jpackage:jpackage
-   ```
-
----
-
-## 🎨 Screenshots & Demo
-
-*Coming soon! Screenshots will be added in the next update.*
+```bash
+mvn clean package jpackage:jpackage
+```
 
 ---
 
@@ -171,10 +181,5 @@ I'm passionate about building practical AI applications that solve real-world pr
 
 ---
 
-<div align="center">
-
-**Made with ❤️ by Moses Amwoma**
-
+**Made with ❤️ by Moses Amwoma**  
 *Part of my portfolio demonstrating full-stack ML application development*
-
-</div>
