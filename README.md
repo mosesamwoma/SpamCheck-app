@@ -27,7 +27,7 @@ Built with **JavaFX** and integrated with a **Python/Flask ML API**, this projec
 ## 📦 How to Run Locally (Developer Mode)
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/mosesamwoma/SpamCheck-app.git]
+    https://github.com/mosesamwoma/SpamCheck-app.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
