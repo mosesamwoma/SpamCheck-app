@@ -43,17 +43,8 @@
 
 ## 📸 Screenshots
 
-### Application Interface
-![SpamCheck Main Interface](screenshort/1.png)
-*Clean and intuitive main interface - paste your message and click "Check Spam"*
-
-### Spam Detection Result
-![Spam Detected](screenshort/2.png)
-*Real-time spam detection with clear visual feedback*
-
-### Not Spam Result
-![Not Spam Result](screenshort/3.png)
-*Legitimate messages are clearly marked as "Not Spam"*
+![SpamCheck Application](screenshort/2.png)
+*SpamCheck in action - real-time spam detection with clear visual feedback*
 
 ---
 
