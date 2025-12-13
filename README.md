@@ -44,6 +44,7 @@
 ## 📸 Screenshots
 
 ![SpamCheck Application](screenshort/2.png)
+
 *SpamCheck in action - real-time spam detection with clear visual feedback*
 
 ---
