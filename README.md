@@ -156,7 +156,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 About the Author
 
 **Moses Amwoma**  
-*Data Science Student & Software Engineer*
+*Data Science Student*
 
 I'm passionate about building practical AI applications that solve real-world problems. This project combines my interests in machine learning, software engineering, and user experience design.
 
