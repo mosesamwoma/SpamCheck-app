@@ -131,10 +131,8 @@ mvn clean package jpackage:jpackage
 - 🔔 **Notification System** - Desktop alerts for critical spam
 
 ### Version 2.0 (Future Vision)
-- 🧩 **Browser Extension** - Check emails directly in Gmail/Outlook
 - 🤖 **Advanced ML Models** - Support for transformer-based detection (BERT)
 - 🌐 **Multi-Language Support** - Detect spam in Spanish, French, German, etc.
-- 🔗 **Email Client Integration** - Direct plugin for Outlook/Thunderbird
 
 ---
 
@@ -147,7 +145,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🙏 Acknowledgments
 
 - **JavaFX Community** for the excellent UI framework
-- **Scikit-Learn** for making ML accessible
 - **Render** for reliable cloud hosting
 - **Open Source Community** for inspiration and tools
 
