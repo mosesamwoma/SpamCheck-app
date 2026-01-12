@@ -20,3 +20,6 @@ SpamCheckOutput*/
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Visual Studio Code settings
+.vscode/
