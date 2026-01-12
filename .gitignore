@@ -1,6 +1,11 @@
 # Ignore Maven build results
 target/
 *.exe
+target/
+*.exe
+*.jar
+out/
+.vscode/
 
 # Ignore IDE build folders (The one you found)
 out/
@@ -20,6 +25,3 @@ SpamCheckOutput*/
 # OS junk
 .DS_Store
 Thumbs.db
-
-# Visual Studio Code settings
-.vscode/
